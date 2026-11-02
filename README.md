@@ -2,9 +2,7 @@
 
 **Mağazanızı denetler, yeni ürünlerinizi doğru yükler.** Rafla, Trendyol mağazanızdaki kara listedeki ve yanlış kategorideki ürünleri sebepleriyle bulur. Yeni ürünleriniz için kategoriyi, zorunlu özellikleri ve markayı yapay zekâyla seçer, ihlal riski olanları yüklemeden önce uyarır. Siz kontrol edin, tek tuşla mağazanıza yükleyin.
 
-### [⬇ Son sürümü indir (Rafla.exe)](https://github.com/JaxKerya/rafla/releases/latest/download/Rafla.exe)
-
-Windows 10 ve 11'de çalışır. Kurulum gerekmez.
+Windows 10 ve 11'de çalışır. Kurulum gerekmez. Sürümler bu deponun [Sürümler](https://github.com/JaxKerya/rafla/releases) sayfasında yayımlanır.
 
 ---
 
@@ -29,13 +27,13 @@ Windows 10 ve 11'de çalışır. Kurulum gerekmez.
 
 ## Nasıl başlarım?
 
-1. `Rafla.exe` dosyasını indirin, bir klasöre koyup çift tıklayın. Uygulama tarayıcınızda açılır.
+1. [Sürümler](https://github.com/JaxKerya/rafla/releases) sayfasından `Rafla.exe` dosyasını indirin, bir klasöre koyup çift tıklayın. Uygulama tarayıcınızda açılır.
 2. **Trendyol satıcı bilgilerinizi** girin: Satıcı ID, API anahtarı ve gizli anahtar. Satıcı panelinde *Hesap Bilgilerim → Entegrasyon Bilgileri* sayfasında bulunur.
 3. **Mağazam** sekmesinden mağazanızı taratın; sorunlu ürünler sebepleriyle listelenir.
 4. **OpenRouter anahtarı** girin. Yanlış kategori kontrolü ve eşleştirme bu anahtarla çalışır; nasıl alınacağı uygulamada 5 adımda anlatılıyor. Eşleştirme 1.000 üründe yaklaşık 1 dolar tutar, bu ücret doğrudan OpenRouter'a ödenir.
 5. Yeni ürünlerinizi içe aktarın, eşleştirin, kontrol edin, yükleyin.
 
-> **"Windows bilgisayarınızı korudu" uyarısı çıkarsa:** Bu uyarı, yeni yayıncıların imzasız programlarında görünür. **Ek bilgi → Yine de çalıştır** deyin. İndirdiğiniz dosyanın değiştirilmediğini kontrol etmek isterseniz PowerShell'de `Get-FileHash Rafla.exe` yazın. Çıkan özet, [sürüm sayfasındaki](https://github.com/JaxKerya/rafla/releases/latest) SHA-256 özetiyle aynı olmalı.
+> **Dosyayı doğrulama:** İndirdiğiniz dosyanın değiştirilmediğini kontrol etmek için PowerShell'de `Get-FileHash Rafla.exe` yazın. Çıkan özet, sürüm notlarındaki SHA-256 özetiyle aynı olmalı.
 
 ## Deneme ve lisans
 
