@@ -37,7 +37,7 @@ Windows 10 ve 11'de çalışır. Kurulum gerekmez. Sürümler bu deponun [Sürü
 
 ## Deneme ve lisans
 
-- **Mağaza denetimi** deneme sürümünde sınırsız ve ücretsizdir.
+- **Mağaza denetimi** deneme sürümünde tüm sayıları ve sebepleri gösterir, ilk 10 sorunlu ürünü listeler. Tam liste ve Excel raporu lisanslı sürümdedir.
 - **Ürün yükleme** deneme sürümünde **10 ürüne kadar** ücretsizdir.
 - **Lisans** R10.net'teki satış konusundan alınır. Lisans tek bilgisayara bağlıdır ve süresiz çalışır.
 - Lisansın güncelleme süresi içinde çıkan yeni sürümler ücretsizdir.
