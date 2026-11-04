@@ -38,7 +38,7 @@ Windows 10 ve 11'de çalışır. Kurulum gerekmez. Sürümler bu deponun [Sürü
 ## Deneme ve lisans
 
 - **Mağaza denetimi** deneme sürümünde sınırsız ve ücretsizdir.
-- **Ürün yükleme** deneme sürümünde **20 ürüne kadar** ücretsizdir.
+- **Ürün yükleme** deneme sürümünde **10 ürüne kadar** ücretsizdir.
 - **Lisans** R10.net'teki satış konusundan alınır. Lisans tek bilgisayara bağlıdır ve süresiz çalışır.
 - Lisansın güncelleme süresi içinde çıkan yeni sürümler ücretsizdir.
 
